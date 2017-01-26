@@ -2,7 +2,6 @@
 
 # Author: Charles Petchsy
 
-# Most parts were cited from http://ubuntuforums.org/showthread.php?t=2088190
 # A script specifically for Sony hardware (Sony Vaio T series)
 # Can easily run this script via Terminal and provides all the files needed
 # to fix the backlighting issue (requires root)
